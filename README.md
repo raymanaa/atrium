@@ -1,6 +1,6 @@
 # Atrium — Morning briefings for CS teams
 
-Portfolio project #10. Every morning, each CSM gets a briefing of the three accounts that need them today, with evidence.
+Every morning, each CSM gets a briefing of the three accounts that need them today, with evidence.
 
 Live: https://atrium.raymnz.com
 
