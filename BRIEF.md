@@ -1,6 +1,6 @@
 # Atrium — CS morning briefings
 
-> Portfolio project #10 — the tenth. Every morning, each CS manager gets a briefing of the 3 accounts that need them today, with evidence.
+>  — the tenth. Every morning, each CS manager gets a briefing of the 3 accounts that need them today, with evidence.
 
 ## M0 — Design direction (LOCKED)
 

@@ -17,7 +17,6 @@ export function MarketingFooter() {
           </Col>
           <Col label="Company">
             <span className="text-ink-2">Built by Rayen Manaa</span>
-            <span className="text-ink-2">Portfolio project #10</span>
           </Col>
           <Col label="Repo">
             <a
